@@ -3,6 +3,3 @@ Name: mlprojects
 Version: 0.0.1
 Author: Tejash
 Author-email: mishratejash97@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: seaborn
